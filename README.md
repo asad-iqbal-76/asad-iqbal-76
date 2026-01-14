@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on<br>Data engineering & analytics at Digitt Plus, focusing on SQL, Power BI, and data workflows using Visual Studio.<br><br>👯 Open to collaborating on<br>Data engineering, SQL optimization, Power BI dashboards, and fintech data projects.<br><br>🌱 Currently learning<br>Advanced SQL, Power BI, and modern data engineering tools.<br><br>💬 Ask me about<br>SQL, Power BI, data engineering, Visual Studio, and fintech analytics.<br><br>⚡ Fun fact<br>Fast learner • Data enthusiast • Cricket & football fan 🏏⚽
+🔭 Currently working on<br>Data engineering & analytics at Digitt Plus, focusing on SQL, Machine Learning, Power BI, and data workflows using Visual Studio.<br><br>👯 Open to collaborating on<br>Data engineering, SQL optimization, Power BI dashboards, and fintech data projects, Python Development, Machine Learning.<br><br>🌱 Currently learning<br>Advanced SQL, Power BI, and modern data engineering tools.<br><br>💬 Ask me about<br>SQL, Power BI, data engineering, Visual Studio, and fintech analytics.<br><br>⚡ Fun fact<br>Fast learner • Data enthusiast • Cricket & football fan 🏏⚽
 
 
 ## 🌐 Socials:
